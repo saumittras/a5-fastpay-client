@@ -299,6 +299,47 @@ fastpay-frontend/
 └── vite.config.ts
 ```
 
+## Login Credentials for Admin/Super Admin, Agent and User
+
+### admin:
+
+```json
+{
+  "phone": "01761363738",
+  "password": "Saumittra#12"
+}
+```
+
+### Agent:
+
+```json
+{
+  "phone": "01720323034",
+  "password": "Saumittra#12"
+}
+```
+
+### User:
+
+```json
+{
+  "phone": "01724705735",
+  "password": "Saumittra#12"
+}
+```
+
+### Important Links
+
+GitHub Client: <a href='https://github.com/saumittras/a5-fastpay-client'>Link</a><br>
+Live Frontend Link : <a href='https://fast-pay-a6.web.app/'>Link</a></br>
+
+GitHub Backend: <a href='https://github.com/saumittras/a5-fastpay-backend'>Link</a><br>
+Live Deployment: <a href='https://a5-fastpay-backend.vercel.app'>Link</a></br>
+
+Explanation Video: <a href='https://drive.google.com/drive/folders/1WLugzTHRZZqtRJWSIXLTN5njy_pG7ZZs?usp=sharing'>Link</a></br>
+
+Readme:<a href='https://github.com/saumittras/a5-fastpay-client/blob/main/README.md'>Link</a></br>
+
 ## 🪪 License
 
 This project is licensed under the [MIT License](./LICENSE).
