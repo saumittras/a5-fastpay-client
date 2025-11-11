@@ -1,0 +1,15 @@
+.driver-popover {
+  background-color: #1e293b;
+  color: #fff;
+  border-radius: 12px;
+  border: 1px solid #22c55e;
+}
+
+.driver-popover-title {
+  font-weight: 700;
+  color: #22c55e;
+}
+
+.driver-popover-description {
+  color: #e2e8f0;
+}
