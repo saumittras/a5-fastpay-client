@@ -298,3 +298,7 @@ fastpay-frontend/
 ├── tsconfig.json
 └── vite.config.ts
 ```
+
+## 🪪 License
+
+This project is licensed under the [MIT License](./LICENSE).
